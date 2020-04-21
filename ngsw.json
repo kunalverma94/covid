@@ -1,0 +1,98 @@
+{
+  "configVersion": 1,
+  "timestamp": 1587498657436,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/favicon.ico",
+        "/index.html",
+        "/main-es2015.59477628d6395fce93c6.js",
+        "/main-es5.59477628d6395fce93c6.js",
+        "/manifest.webmanifest",
+        "/polyfills-es2015.3fd94ed6a324eee92aec.js",
+        "/polyfills-es5.c219b7059a7feb126472.js",
+        "/runtime-es2015.0811dcefd377500b5b1a.js",
+        "/runtime-es5.0811dcefd377500b5b1a.js",
+        "/scripts.fd51b584a0bffac961ab.js",
+        "/styles.716ed1bb23d3294d3357.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/404.png",
+        "/assets/hand.gif",
+        "/assets/icons/icon-128x128.png",
+        "/assets/icons/icon-144x144.png",
+        "/assets/icons/icon-152x152.png",
+        "/assets/icons/icon-192x192.png",
+        "/assets/icons/icon-384x384.png",
+        "/assets/icons/icon-512x512.png",
+        "/assets/icons/icon-72x72.png",
+        "/assets/icons/icon-96x96.png",
+        "/assets/loader.js",
+        "/assets/logo.svg",
+        "/assets/news.png",
+        "/assets/news1.png",
+        "/assets/news2.png",
+        "/assets/smok.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/assets/404.png": "2fb6a246f8b21733080f629e83c699df0f2204c4",
+    "/assets/hand.gif": "dbb842aaac5d8653bbcf30d5517c44b294d6b1f5",
+    "/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/assets/loader.js": "5474936589d728d2268a91c4ccd5af98ec44f4ea",
+    "/assets/logo.svg": "ffb638020ad630fd6f7fb3f8e4ae4ca9aadd5672",
+    "/assets/news.png": "eac4bbc6d93ac869b818a9be138f3c8eb56d8f21",
+    "/assets/news1.png": "8c245f7a5a7e0afb20897db446ccefc619af5779",
+    "/assets/news2.png": "f78e8b2c1a715ae580bed0ee4f793c12c65125db",
+    "/assets/smok.png": "f2575abed38d6aea4d913f1f14e0de18e53b0dde",
+    "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/index.html": "43d2425017d6a171b83d62c039dd2f9e1612c893",
+    "/main-es2015.59477628d6395fce93c6.js": "529a21cb6f9f798bfa7042f0f2321df6afcb11fd",
+    "/main-es5.59477628d6395fce93c6.js": "94f5168924255f3775cb3f1c4049e1f87a89b244",
+    "/manifest.webmanifest": "9db2c20c7b8d04b4092c96fc86ad4a0a1f5e0819",
+    "/polyfills-es2015.3fd94ed6a324eee92aec.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
+    "/polyfills-es5.c219b7059a7feb126472.js": "e5472003c8575a8fca7583648df3905038faeb18",
+    "/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
+    "/scripts.fd51b584a0bffac961ab.js": "d0e3f2c8c43a5ee347e46df1f3ff68955f08431a",
+    "/styles.716ed1bb23d3294d3357.css": "3074bb5451649bbf9121606be350ab74dd29e723"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
