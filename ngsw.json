@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1587498657436,
+  "timestamp": 1587501694772,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,8 +10,8 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.59477628d6395fce93c6.js",
-        "/main-es5.59477628d6395fce93c6.js",
+        "/main-es2015.7bba69470ba4ef3f4f83.js",
+        "/main-es5.7bba69470ba4ef3f4f83.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.3fd94ed6a324eee92aec.js",
         "/polyfills-es5.c219b7059a7feb126472.js",
@@ -66,9 +66,9 @@
     "/assets/news2.png": "f78e8b2c1a715ae580bed0ee4f793c12c65125db",
     "/assets/smok.png": "f2575abed38d6aea4d913f1f14e0de18e53b0dde",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "43d2425017d6a171b83d62c039dd2f9e1612c893",
-    "/main-es2015.59477628d6395fce93c6.js": "529a21cb6f9f798bfa7042f0f2321df6afcb11fd",
-    "/main-es5.59477628d6395fce93c6.js": "94f5168924255f3775cb3f1c4049e1f87a89b244",
+    "/index.html": "cf608b2d942fa7b7419a04ecd5d094bb36ba5d16",
+    "/main-es2015.7bba69470ba4ef3f4f83.js": "32947c06b39f238fabf1f9fc7a5466b5f59d1935",
+    "/main-es5.7bba69470ba4ef3f4f83.js": "3eb0d9316baa34e84df0bc7fc2001933f9c1e35f",
     "/manifest.webmanifest": "9db2c20c7b8d04b4092c96fc86ad4a0a1f5e0819",
     "/polyfills-es2015.3fd94ed6a324eee92aec.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/polyfills-es5.c219b7059a7feb126472.js": "e5472003c8575a8fca7583648df3905038faeb18",
