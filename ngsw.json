@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1587589389997,
+  "timestamp": 1588254776666,
   "index": "/index.html",
   "assetGroups": [
     {
@@ -10,15 +10,15 @@
       "urls": [
         "/favicon.ico",
         "/index.html",
-        "/main-es2015.eeb91c2a2d341ef58ff5.js",
-        "/main-es5.eeb91c2a2d341ef58ff5.js",
+        "/main-es2015.48fc462f40356b103e9b.js",
+        "/main-es5.48fc462f40356b103e9b.js",
         "/manifest.webmanifest",
         "/polyfills-es2015.3fd94ed6a324eee92aec.js",
         "/polyfills-es5.c219b7059a7feb126472.js",
         "/runtime-es2015.0811dcefd377500b5b1a.js",
         "/runtime-es5.0811dcefd377500b5b1a.js",
         "/scripts.fd51b584a0bffac961ab.js",
-        "/styles.716ed1bb23d3294d3357.css"
+        "/styles.cabdb58daa2e31d80df3.css"
       ],
       "patterns": []
     },
@@ -66,16 +66,16 @@
     "/assets/news2.png": "f78e8b2c1a715ae580bed0ee4f793c12c65125db",
     "/assets/smok.png": "f2575abed38d6aea4d913f1f14e0de18e53b0dde",
     "/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
-    "/index.html": "a977e9af32f0e77c456cd8fae191429a4aa55266",
-    "/main-es2015.eeb91c2a2d341ef58ff5.js": "161790f67386799089e39635928abbe19697cd01",
-    "/main-es5.eeb91c2a2d341ef58ff5.js": "8369e4a00b306bfc9ce7fe77e1c96191f88c7d71",
+    "/index.html": "65b90fc2e3905954cbd064e77b4faabec6d1570d",
+    "/main-es2015.48fc462f40356b103e9b.js": "39939f1714dfa2dc8e69f8cf3a76d69c1c3712b4",
+    "/main-es5.48fc462f40356b103e9b.js": "0f4071ec612f709494ef73f4a64050a4e835e817",
     "/manifest.webmanifest": "9db2c20c7b8d04b4092c96fc86ad4a0a1f5e0819",
     "/polyfills-es2015.3fd94ed6a324eee92aec.js": "72ad4ccc0a3916ae4598199447cdeadd6d380570",
     "/polyfills-es5.c219b7059a7feb126472.js": "e5472003c8575a8fca7583648df3905038faeb18",
     "/runtime-es2015.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/runtime-es5.0811dcefd377500b5b1a.js": "a9aafcf49f49145093fc831efd9b8e2f6c71bb9c",
     "/scripts.fd51b584a0bffac961ab.js": "d0e3f2c8c43a5ee347e46df1f3ff68955f08431a",
-    "/styles.716ed1bb23d3294d3357.css": "3074bb5451649bbf9121606be350ab74dd29e723"
+    "/styles.cabdb58daa2e31d80df3.css": "f4bd028903e969b9933e1ffab74c9dc02e8b1d01"
   },
   "navigationUrls": [
     {
